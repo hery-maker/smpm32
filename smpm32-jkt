@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMP Muhammadiyah 32 Jakarta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SMP Muhammadiyah 32 Jakarta</h1>
+        <p>Cerdas, Berakhlak, Berkemajuan</p>
+    </header>
+    <main>
+        <h2>Selamat Datang</h2>
+        <p>SMP Muhammadiyah 32 Jakarta adalah sekolah menengah pertama berbasis Islami yang menekankan pendidikan holistik dengan nilai-nilai keislaman.</p>
+        <h3>Program Unggulan</h3>
+        <ul>
+            <li>Tahfidz Quran</li>
+            <li>Pembelajaran Berbasis Teknologi</li>
+            <li>Ekstrakurikuler Seni dan Budaya</li>
+        </ul>
+    </main>
+    <footer>
+        &copy; 2024 SMP Muhammadiyah 32 Jakarta
+    </footer>
+</body>
+</html>
